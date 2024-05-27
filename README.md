@@ -1,7 +1,7 @@
 # ITI-Control-Lighting-using-GUI
 
 Main goal to deliver luxury and to each of user (driver ) and normal people around car 
-by making your car acting with cars and environment around you using beams
+by making your car acting with cars and environment around you
 
 
 
